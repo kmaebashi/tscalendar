@@ -88,7 +88,6 @@ class Calendar {
       }
     }
     this.targetElement.appendChild(tableElem);
-
   }
 
   leftArrowClicked(): void {
@@ -157,5 +156,4 @@ class Calendar {
 
     return newDate;
   }
-
 }
